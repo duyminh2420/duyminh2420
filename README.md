@@ -17,15 +17,15 @@ Beyond the code, I bring a unique perspective as an innovator at a leading bank,
 🛠 My Technical Toolkit
 Category Skills & Tools
 
-Languages: Python, Java, SQL, HTML/CSS, JavaScript
+Languages: Python, Java, SQL, HTML/CSS, JavaScript, C++, C#
 
 Frameworks/Libraries: React, SpringBoot, Node.js
 
-Cloud & DevOps: AWS, Azure, docker, git
+Cloud & DevOps: AWS, Azure, IBM, Snowflake, Databricks, docker, git
 
-Databases: PostgreSQL
+Databases: PostgreSQL, MongoDB, mySQL
 
-Developer Tools: Postman, PowerBI
+Developer Tools: Postman, PowerBI, Linux, SpringBoot, NextJS, APIs
 
 🤝 Let's Connect!
 I love collaborating and discussing new ideas, especially those involving AI and large-scale applications.
