@@ -11,8 +11,6 @@ Robust Backend Development: Architecting and implementing scalable enterprise ap
 
 Full-Stack Solutions: Utilizing React and Node.js to create seamless and responsive user experiences.
 
-Tech profile website: https://minh-profile.vercel.app/
-
 🌟 About Me & Innovation
 Beyond the code, I bring a unique perspective as an innovator at a leading bank, where I contribute to process and technology improvements. I'm also deeply committed to community support as an active volunteer, using meaningful activities to spread positive impact.
 
@@ -31,6 +29,8 @@ Developer Tools: Postman, PowerBI, Linux, SpringBoot, NextJS, APIs
 
 🤝 Let's Connect!
 I love collaborating and discussing new ideas, especially those involving AI and large-scale applications.
+
+Tech profile website: https://minh-profile.vercel.app/
 
 <!--
 **duyminh2420/duyminh2420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
