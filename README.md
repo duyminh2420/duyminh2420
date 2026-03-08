@@ -29,7 +29,7 @@ Developer Tools: Postman, PowerBI, Linux, SpringBoot, NextJS, APIs
 
 🤝 Let's Connect!
 I love collaborating and discussing new ideas, especially those involving AI and large-scale applications.
-
+Personal porfolio: https://minh-profile.vercel.app/
 <!--
 **duyminh2420/duyminh2420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
